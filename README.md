@@ -1,57 +1,12 @@
-Absolutely. Below is a **professional `README.md` file** for your public GitHub repository **Python Learning With Apna College**. I have also added an **About Me** section including your certifications.
+# 🐍 Python Learning
 
-You can copy and paste this directly into your `README.md` file.
-
-# 🐍 Python Learning With Apna College
-
-Welcome to **Python Learning With Apna College**! 🚀
+Welcome to **Python Learning**! 🚀
 
 This repository contains my **Python learning journey**, including important Python concepts, examples, practice code, and programming exercises from **basic to intermediate level**.
 
 The code and concepts in this repository are based on the **Python course lectures by Apna College** available on YouTube. I have organized the important code and concepts in this repository to make Python learning easier for beginners and those who want to strengthen their programming fundamentals.
 
 My goal is to create a structured collection of Python concepts that can help learners understand Python step by step — from the fundamentals to intermediate-level programming.
-
----
-
-## 📚 What You Will Learn
-
-This repository covers important Python concepts, including:
-
-* 🐍 Python Basics
-* 📦 Variables and Data Types
-* 🔢 Operators
-* 🔤 Strings and String Operations
-* ✂️ String Slicing
-* 📋 Lists
-* 🔒 Tuples
-* 🗂️ Dictionaries
-* 🧮 Sets
-* 🔄 Conditional Statements
-* 🔁 Loops
-* ⏭️ `break`, `continue`, and `pass`
-* 📏 `range()`
-* 🔢 `enumerate()`
-* ⚙️ Functions
-* 🔙 `return` vs `print`
-* 🧩 Lambda Functions
-* 📦 Modules and Packages
-* 📥 `pip`
-* ⚠️ Exception Handling
-* `try`, `except`, `else`, and `finally`
-* 🏗️ Object-Oriented Programming (OOP)
-* 🧱 Classes and Objects
-* 🔨 Constructors
-* 🗑️ Destructors
-* 🔐 Encapsulation
-* 🧬 Inheritance
-* 🔄 Method Overriding
-* 🔗 Multiple Inheritance
-* 🔒 Name Mangling
-* 📖 Iterables and Iterators
-* And many other important Python concepts and examples.
-
----
 
 ## 🎯 Repository Goal
 
@@ -129,14 +84,14 @@ Don't just read the code. Try to:
 
 # 👨‍💻 About Me
 
-Hi, I'm **Muhammad Husnain Attari**, an aspiring **Cloud & DevOps Professional** with a strong interest in **Cloud Computing, DevOps, Kubernetes, Infrastructure as Code, Automation, and Artificial Intelligence**.
+Hi, I'm **Muhammad Husnain**, an aspiring **Cloud & DevOps Professional** with a strong interest in **Cloud Computing, DevOps, Kubernetes, Infrastructure as Code, Automation, and Artificial Intelligence**.
 
 I am continuously improving my technical skills and expanding my knowledge in **Python, AWS, DevOps, Cloud Computing, Kubernetes, Terraform, and AI/ML**.
 
 ### 🏆 Certifications
 
 * ☁️ **AWS Certified DevOps Engineer – Professional**
-* ☁️ **AWS Certified Cloud Practitioner**
+* ☁️ **AWS Certified AI/ML Engineer**
 * ☸️ **Certified Kubernetes Administrator (CKA)**
 * 🏗️ **HashiCorp Certified: Terraform Associate**
 
@@ -157,6 +112,7 @@ If you find this repository helpful, feel free to:
 💡 **Suggest improvements**
 
 🤝 **Connect with me on LinkedIn**
+www.linkedin.com/in/m-husnain-aws 
 
 Let's learn, build, and grow together! 🚀
 
