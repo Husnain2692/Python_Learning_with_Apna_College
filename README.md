@@ -48,7 +48,7 @@ You can follow these steps to start learning:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Husnain2692/Python_Learning_with_Apna_College.git
 ```
 
 ### 2️⃣ Open the Repository
