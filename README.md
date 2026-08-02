@@ -112,7 +112,7 @@ If you find this repository helpful, feel free to:
 💡 **Suggest improvements**
 
 🤝 **Connect with me on LinkedIn**
-www.linkedin.com/in/m-husnain-aws 
+www.linkedin.com/in/m-husnain-devops-ai-ml
 
 Let's learn, build, and grow together! 🚀
 
